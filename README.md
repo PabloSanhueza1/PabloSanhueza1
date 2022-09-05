@@ -1,10 +1,10 @@
-### Pablo Sanhueza
+# Pablo Sanhueza
 
-- 📚 Currently studing at *Universidad De Concepción*
---> *Ingenieria Civil Informática*
-- 🎶 I love music
+ - 📚 Currently studing at *Universidad De Concepción*
+ --> *Ingenieria Civil Informática*
+ - 🎶 I love music
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanhueza1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanhueza1&layout=compact?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **PabloSanhueza1/PabloSanhueza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
