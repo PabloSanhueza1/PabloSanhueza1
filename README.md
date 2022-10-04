@@ -1,7 +1,7 @@
 # Pablo Sanhueza
 
  - 📚 Currently studing at *Universidad De Concepción*
- --> *Ingenieria Civil Informática*
+ --> *Civil Engineering in Computer Science*
  - 🎶 I love music
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablosanhueza1&layout=compact?username=anuraghazra&show_icons=true&theme=radical)
