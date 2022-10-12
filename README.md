@@ -1,6 +1,6 @@
 # Pablo Sanhueza
 
- - 📚 Currently studing at *Universidad De Concepción*
+ - 📚 Currently studing at *Universidad De Concepción* 👨‍💻
  --> *Civil Engineering in Computer Science*
  - 🎶 I love music
 
